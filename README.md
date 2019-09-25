@@ -9,4 +9,4 @@ Do it! 깃허브 사용법 연습 중
 
 ![이미지연습](http://webguru.dothome.co.kr/images/first.jpg)
 
-![이미지연습2](./images2/6-12.png)
+![이미지연습2](./image2/6-12.png)
